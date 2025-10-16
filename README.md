@@ -55,7 +55,6 @@ Currently pursuing the **BS in Data Science and Applications from IIT Madras** a
 
 📩 **Connect with me:**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)
-- ✉️ **Email:** ulhaqamaan6@gmail.com  
 
 ---
 
