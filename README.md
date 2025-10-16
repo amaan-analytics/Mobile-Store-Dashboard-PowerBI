@@ -42,7 +42,9 @@ It provides insights into total sales, customer behavior, payment trends, and ov
 ---
 
 ## 📸 Dashboard Workspace Preview  
-![Mobile Store Dashboard](https://shorturl.at/kFYoX)
+<p align="center">
+  <img src="https://github.com/amaan-analytics/Mobile-Store-Dashboard-PowerBI/blob/main/Mobile%20Store%20Dashboard%20P_BI.jpg" width="850"/>
+</p>
 
 ---
 
@@ -52,9 +54,8 @@ Data Science enthusiast passionate about transforming raw data into actionable i
 Currently pursuing the **BS in Data Science and Applications from IIT Madras** and learning advanced analytics to build real-world solutions.
 
 📩 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)  
+- [!LinkedIn](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)  
 - ✉️ **Email:** ulhaqamaan6@gmail.com  
-- 🌐 **Portfolio:** [amaan-analytics.github.io](https://amaan-analytics.github.io)
 
 ---
 
